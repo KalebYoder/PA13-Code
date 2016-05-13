@@ -1,0 +1,1 @@
+# This is a small project I put together for fun. It uses a JFrame GUI put together with Netbeans' WYSIWYG GUI generator and a buffered line reader to take in some data from .txt files. I've formatted it according to Google's Java style guide. I have implemented a suite of JUnit tests for each input the user can give. The game still requires balancing.
